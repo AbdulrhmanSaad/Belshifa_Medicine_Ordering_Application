@@ -1,5 +1,7 @@
+# About the app<br>
+a user-friendly Windows Forms application for ordering medicines from home. The application requires user registration and login for secure access. Users can search and select medicines, add them to a cart, and view their order. Admins have additional features like managing medicines, adding new ones, and viewing all orders. The application prioritizes a visually appealing interface and error handling for a seamless user
 # Demo video:<br>
-https://www.youtube.com/watch?v=0ar0kuxg0ko&t=2s
+https://drive.google.com/drive/folders/1DU2JIx46CiFcCxslbSR8tiKpgf39Ze-h
 # How to open:
 open Belshifa.docx.<br>
 copy sql script and paste it in oracle database.<br>
